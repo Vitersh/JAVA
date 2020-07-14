@@ -1,0 +1,24 @@
+2020-may-26 09:06:44 AM INFO  c.b.c.CambioCupoCclvApplication - Starting CambioCupoCclvApplication on DESKTOP-IOQ41CH with PID 14280 (C:\Users\viter\eclipse-workspace\Cambio_Cupo_CCLV\target\classes started by viter in C:\Users\viter\eclipse-workspace\Cambio_Cupo_CCLV)
+2020-may-26 09:06:44 AM INFO  c.b.c.CambioCupoCclvApplication - No active profile set, falling back to default profiles: default
+2020-may-26 09:06:45 AM INFO  c.b.c.config.AppFileSystemResource - Loading configuration file 'C:/Oracle/Middleware/Oracle_Home/user_projects/domains/base_domain/servers/AdminServer/properties/cambio_cupo_cclv/cambio_cupo_cclv.properties'...
+2020-may-26 09:06:45 AM INFO  c.b.c.config.AppFileSystemResource - exito
+2020-may-26 09:06:45 AM INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$841d9403] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-may-26 09:06:45 AM INFO  o.s.w.s.a.s.AnnotationActionEndpointMapping - Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-may-26 09:06:45 AM INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-may-26 09:06:45 AM INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-may-26 09:06:45 AM INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-may-26 09:06:45 AM INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-may-26 09:06:45 AM INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 905 ms
+2020-may-26 09:06:46 AM INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-may-26 09:06:46 AM INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-may-26 09:06:46 AM INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-may-26 09:06:46 AM INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-may-26 09:06:46 AM INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-may-26 09:06:46 AM INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-may-26 09:06:46 AM INFO  c.b.c.config.WebAppInit - JNDI : jdbc/mobileOrawPOR
+2020-may-26 09:06:46 AM INFO  c.b.c.CambioCupoCclvApplication - Started CambioCupoCclvApplication in 1.719 seconds (JVM running for 2.258)
+2020-may-26 09:07:04 AM INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-may-26 09:07:04 AM INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-may-26 09:07:04 AM INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-may-26 10:41:31 AM INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-may-26 10:41:31 AM INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
